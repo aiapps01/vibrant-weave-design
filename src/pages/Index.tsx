@@ -24,7 +24,7 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>MeowCare - Gentle, expert care for your felinefriend</title>
+        <title>MeowCare - Gentle, expert care for your feline friend</title>
         <meta name="description" content="Providing gentle, expert care for your feline friend. Trusted by 13K+ cat owners with 5-star ratings across platforms." />
       </Helmet>
       
